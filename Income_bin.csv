@@ -1,0 +1,5 @@
+income_bin,avg_spending_score,avg_shopping_freq,retention_rate,customer_count
+0-25K,50.85,9.34,0.3,1170
+25K-50K,50.13,9.54,0.31,5792
+50K-75K,49.4,9.57,0.31,5770
+75K+,49.87,9.57,0.3,17268
