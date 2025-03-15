@@ -1,5 +1,4 @@
 # Customer Retention Analysis
-# CUSTOMER DATA ANALYSIS
 
 ## Overview
 This project showcases an in-depth analysis of customer demographics, financial attributes, and behavioral patterns using SQL, Excel, and Power BI. The dataset is designed to facilitate predictive modeling for customer retention, exploratory data analysis (EDA), feature engineering, and visualization. The final interactive Power BI dashboard provides insights into key customer trends, financial behaviors, and retention rates.
